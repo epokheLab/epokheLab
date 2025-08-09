@@ -1,6 +1,6 @@
-# OSIO Methodology
+# OSIO Methodology Project
 
-OSIO est une approche méthodologique simple et adaptable, pensée pour structurer tout type de projet — de la migration SEO à la documentation technique — en quatre étapes claires.
+OSIO est une approche méthodologique simple et adaptable, pouvant aider à structurer tout type de projet SEO — de la refonte, migration et optimisation de site, à la création de livrables personnalisés — en quatre phases.
 
 ## 💬 Note d’intention
 
@@ -12,13 +12,13 @@ Chacun est libre de s’en inspirer, de l’adapter, ou de proposer des amélior
 
 OSIO peut être utile à toute personne qui veut structurer un projet de manière claire et pragmatique :  
 - Consultants et consultantes SEO 
-- Responsables de projet 
-- Équipes éditoriales ou techniques 
+- Product Owners, Product Managers
+- Responsables de contenus ou techniques 
 - Toute personne curieuse de nouvelles méthodes d’organisation
 
 ## 📜 Origine
 
-OSIO est né de l’envie de rendre les méthodes de travail **plus accessibles et plus fluides**, tout en conservant la rigueur nécessaire pour mener des projets complexes.  
+OSIO est né de l’envie de rendre les flux de travail SEO **plus accessibles et plus fluides**, tout en conservant la rigueur nécessaire pour mener des projets complexes.  
 Le nom vient d’un acronyme volontairement court et mémorisable, qui évoque un cycle complet :
 
 1. **O**bserver  
@@ -29,8 +29,7 @@ Le nom vient d’un acronyme volontairement court et mémorisable, qui évoque u
 L’idée n’est pas de réinventer la roue, mais de **poser un fil rouge** qui facilite l’organisation, le suivi et la communication des projets.
 
 OSIO n’est pas une suite d’étapes figées à suivre dans un ordre strict.  
-Les quatre phases peuvent se chevaucher, s’inverser ou se répéter selon les besoins du projet.  
-On peut, par exemple, implémenter et tester avant d’avoir tout structuré, pour explorer une idée ou valider une hypothèse.  
+Les quatre phases peuvent se chevaucher, s’inverser ou se répéter selon les besoins.  
 Ce fonctionnement ouvert permet d’intégrer l’innovation et l’adaptation continue.
 
 ---
@@ -56,23 +55,19 @@ Mesurer, ajuster, améliorer en continu. Un projet OSIO n’est jamais figé, il
 OSIO repose sur trois principes :
 
 - **Clarté** → Tout projet doit pouvoir être expliqué simplement.  
-- **Adaptabilité** → Les outils changent, la méthode reste.  
+- **Adaptabilité** → Les outils changent, la méthode reste valide.  
 - **Transmission** → Documenter pour que d’autres puissent réutiliser et améliorer.
 
-OSIO n’est pas une suite d’étapes figées à suivre dans un ordre strict.  
-Les quatre phases peuvent se chevaucher, s’inverser ou se répéter selon les besoins du projet.  
-On peut, par exemple, implémenter et tester avant d’avoir tout structuré, pour explorer une idée ou valider une hypothèse.  
-
-Cette approche s’inspire de l’esprit Agile :  avancer par itérations courtes, rester ouvert aux ajustements, privilégier la communication et la coopération.  
-Au-delà d’une méthode, OSIO cherche à apporter un **gain de sérénité et de productivité**, en allégeant la charge mentale et en laissant la place à l’innovation.
+Cette approche s’inspire aussi de l’esprit Agile : privilégier l'avancement par itérations, rester ouvert aux ajustements, valoriser la communication et la coopération.  
+Au-delà d’une méthode, OSIO cherche à apporter un **gain de sérénité et de productivité**, en allégeant la charge mentale et facilitant ainsi le déploiement des projets.
 
 ---
 
 ## 💡 Exemple : Migration SEO avec OSIO
 
-- **Observer** → Audit technique, analyse du trafic, inventaire des URL.  
-- **Structurer** → Plan de redirections, maquettes d’architecture, spécifications.  
-- **Implémenter** → Mise en place des redirections, déploiement technique, validation QA.  
+- **Observer** → Audit technique, analyse du trafic, inventaire et hiérarchisation des URL.  
+- **Structurer** → Sensibilisation, clarification des besoins et priorisation, préparation des travaux.  
+- **Implémenter** → Mise en place et recette des redirections, recette des déploiements techniques connexes.  
 - **Optimiser** → Suivi post-migration, ajustements SEO, communication des résultats.
 
 ---
