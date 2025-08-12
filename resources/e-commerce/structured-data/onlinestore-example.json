@@ -1,0 +1,47 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": ["Organization","OnlineStore"],
+  "@id": "https://www.voshuiles.com/#organization",
+  "name": "Voshuiles",
+  "legalName": "ELISEE SAS",
+  "url": "https://www.voshuiles.com/",
+  "logo": {
+    "@type": "ImageObject",
+    "@id": "https://www.voshuiles.com/#logo",
+    "url": "https://www.voshuiles.com/media/logo-512.png",
+    "width": 512,
+    "height": 512
+  },
+  "sameAs": [
+    "https://www.facebook.com/voshuiles/",
+    "https://www.instagram.com/voshuiles/",
+    "https://www.linkedin.com/company/vos-huiles-com/"
+  ],
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "customer support",
+      "telephone": "+33-9-67-57-56-85",
+      "email": "service.clients@voshuiles.com",
+      "url": "https://www.voshuiles.com/nous-contacter",
+      "availableLanguage": ["fr","en"]
+    }
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "33 rue des Grands Prés",
+    "postalCode": "58000",
+    "addressLocality": "Nevers",
+    "addressCountry": "FR"
+  },
+  "hasMerchantReturnPolicy": {
+    "@type": "MerchantReturnPolicy",
+    "merchantReturnLink": "https://www.voshuiles.com/content/3-conditions-generales-de-vente",
+    "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+    "merchantReturnDays": 14,
+    "returnMethod": "https://schema.org/ReturnByMail",
+    "returnFees": "https://schema.org/ReturnShippingFees"
+  }
+}
+</script>
