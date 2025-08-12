@@ -1,0 +1,42 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "Product",
+  "@id": "https://www.voshuiles.com/huiles-essentielles/179-1032-huile-essentielle-de-lavande-aspic.html#product",
+  "name": "Huile Essentielle de Lavande Aspic",
+  "description": "L’huile essentielle de lavande aspic ressemble à sa cousine la lavande vraie. En massage, elle laisse un parfum agréable et procure une sensation d’apaisement.",
+  "category": "Huiles Essentielles",
+  "image": [
+    "https://www.voshuiles.com/1877-home_default/huile-essentielle-de-lavande-aspic.jpg",
+    "https://www.voshuiles.com/1877-large_default/huile-essentielle-de-lavande-aspic.jpg"
+  ],
+  "sku": "HUILASP",
+  "mpn": "HUILASP",
+  "gtin13": "3760246890830",
+  "brand": { "@type": "Brand", "name": "Voshuiles" },
+  "weight": {
+    "@type": "QuantitativeValue",
+    "value": 0.042,
+    "unitCode": "KGM"
+  },
+  "offers": {
+    "@type": "Offer",
+    "@id": "https://www.voshuiles.com/huiles-essentielles/179-1032-huile-essentielle-de-lavande-aspic.html#offer",
+    "url": "https://www.voshuiles.com/huiles-essentielles/179-1032-huile-essentielle-de-lavande-aspic.html#/28-conditionnement-10ml",
+    "priceCurrency": "EUR",
+    "price": 3.85,
+    "priceValidUntil": "2025-08-27",
+    "availability": "https://schema.org/InStock",
+    "itemCondition": "https://schema.org/NewCondition",
+    "seller": { "@id": "https://www.voshuiles.com/#organization" },
+    "hasMerchantReturnPolicy": {
+      "@type": "MerchantReturnPolicy",
+      "merchantReturnLink": "https://www.voshuiles.com/content/3-conditions-generales-de-vente",
+      "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+      "merchantReturnDays": 14,
+      "returnMethod": "https://schema.org/ReturnByMail",
+      "returnFees": "https://schema.org/ReturnShippingFees"
+    }     
+  }
+}
+</script>
